@@ -27,6 +27,7 @@ Requisitos
 - Java JDK 11 o superior
 - MySQL Server
 - Apache Tomcat
+- Apache Netbeans ID
 
 Instalación
 
